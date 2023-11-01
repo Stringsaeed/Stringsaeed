@@ -19,8 +19,7 @@
 <h3>My everyday apps:</h3>
 
 - [Zed](https://zed.dev/)
-- Figma
-- Spotify
+- [Spotify](https://open.spotify.com/user/22fqgfawfcjnp7irxkt2ozefi)
 - [Warp](https://www.warp.dev/)
 - [Fork](https://git-fork.com/)
 
