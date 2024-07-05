@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
-<h3 align="center">A passionate mobile developer from Egypt</h3>
+<h3 align="center">A passionate mobile developer from Dubai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stringsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="stringsaeed" /> </p>
 
-- 🔭 I’m currently working on [nomo fintech](https://www.nomobank.com/)
+- 🔭 I’m currently working on [du](https://www.du.ae/)
 
 - 🌱 I’m currently learning **mobile native development**
 
