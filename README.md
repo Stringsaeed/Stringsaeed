@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stringsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="stringsaeed" /> </p>
 
-- 🔭 I’m currently working on [du](https://www.du.ae/)
+- 🔭 I’m currently working on [dubizzle](https://dubai.dubizzle.com/)
 
 - 🌱 I’m currently learning **mobile native development**
 
