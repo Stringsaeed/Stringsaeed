@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **stringsaeed@gmail.com**
 
-- 📄 Know about my experiences [here](https://stringsaeed.notion.site/Muhammed-Saeed-95581da1f0794e65b07e06a71a8c6ace)
+- 📄 Know about my experiences [here](https://stringsaeed.craft.do)
 
 - ⚡ Fun fact **i play mobile legends a lot!!!**
 
