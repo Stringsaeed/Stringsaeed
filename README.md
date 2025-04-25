@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **stringsaeed@gmail.com**
 
-- 📄 Know about my experiences [here](https://stringsaeed.craft.do)
+- 📄 Know about my experiences [here](https://stringsaeed.guru)
 
 - ⚡ Fun fact **i play mobile legends a lot!!!**
 
