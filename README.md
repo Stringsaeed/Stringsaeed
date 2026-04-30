@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
 <h3 align="center">A passionate mobile developer from Dubai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stringsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="stringsaeed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stringsaeed&label=Profile%20views&color=grey&style=flat" alt="stringsaeed" /> </p>
 
 - 💬 Ask me about **react, react-native, and typescript**
 
