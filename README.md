@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
-<h3 align="center">A passionate mobile developer from Dubai</h3>
+<h3 align="center">React Native engineer in Dubai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stringsaeed&label=Profile%20views&color=grey&style=flat" alt="stringsaeed" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stringsaeed@gmail.com**
 
-- 📄 Know about my experiences [here](https://saeed.guru)
+- 📄 Know about my experiences [here](https://thisissaeed.com)
 
 - ⚡ Fun fact **i play mobile legends a lot!!!**
 
